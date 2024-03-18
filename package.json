@@ -1,12 +1,12 @@
 {
-  "displayName": "SharkIQ Plugin",
-  "name": "homebridge-sharkiq",
-  "version": "1.1.2",
+  "displayName": "Shark Robot Plugin",
+  "name": "homebridge-shark",
+  "version": "1.0",
   "description": "A Homebridge plugin to connect your Shark Vacuum to homebridge.",
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Bubba8291/homebridge-sharkiq.git"
+    "url": "https://github.com/69giggity69/homebridge-shark"
   },
   "bugs": {
     "url": "https://github.com/Bubba8291/homebridge-sharkiq/issues"
@@ -42,6 +42,6 @@
   },
   "funding": {
     "type": "paypal",
-    "url": "https://paypal.me/ggg8291"
+    "url": ""
   }
 }
